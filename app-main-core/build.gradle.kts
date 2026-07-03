@@ -13,7 +13,7 @@ dependencies {
 }
 
 application {
-    mainClass.set("main.kotlin.runBox_Processing.Heart")
+    mainClass.set("runBox_Processing.HeartKt")
 }
 
 
